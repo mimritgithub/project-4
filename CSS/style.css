@@ -1,0 +1,364 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+	line-height: 1.7em;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+a{
+    font-family: 'Lato', sans-serif;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+	
+}
+.header{
+    width: 100%;
+    background: rgb(201, 175, 22);
+}
+.header .container-fluid span{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header .navbar-nav .nav-item{
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    color: #0c0c0c;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link:hover{
+    color: #f15959;
+}
+.sec-header .inner-header{
+    text-align: center;
+}
+
+.sec-header{
+    width: 100%;
+    background: url(../images/hero-bg.png);
+    padding: 107px 0px;
+}
+.sec-header .inner-head{
+    text-align: left;
+    padding: 40px 0px;
+}
+.sec-header .inner-head h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.sec-header .inner-head h1 {
+    font-size: 60px;
+    font-weight: 800;
+    padding: 0px 0px 40px;
+}
+.sec-header .inner-head p{
+    font-size: 18px;
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+    color: #0c0c0c;
+}
+.sec-header .inner-head .btnn .btn-warning{
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #08c;
+    text-transform: uppercase;
+}
+.sec-header .inner-head .btnn .btn-warning:hover{
+    background: #000;
+    color: #fff;
+    transition: 1s;
+}
+
+
+.icon{
+    width: 100%;
+    padding: 80px 0px;
+    text-align: center;
+}
+.icon .fst-icon1{
+    padding: 10px 0px;
+    text-align: center;
+    height: 262px;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.icon .fst-icon2:hover{
+    background: #08c;
+    color: #fff;
+    transition: 1s;
+}
+.icon .fst-icon3:hover{
+    background: #08c;
+    color: #fff;
+    transition: 1s;
+}
+.icon .fst-icon1:hover{
+    background: #08c;
+    color: #fff;
+    transition: 1s;
+}
+.icon .fst-icon2{
+    padding: 10px 0px;
+    text-align: center;
+    height: 262px;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.icon .fst-icon2 .middle{
+    padding: 30px 0px 40px;
+}
+
+.icon .fst-icon3{
+    padding: 10px 0px;
+    text-align: center;
+    height: 262px;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.icon .fst-icon3 .last{
+    padding: 30px 0px 22px;
+}
+.icon .fst-icon h6{
+    font-size: 20px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fbb534;
+}
+
+
+.About-jewellery{
+    width: 100%;
+    padding: 40px 0px;
+}
+.About-jewellery .inner-jlg{
+    padding: 40px 0px;
+}
+.About-jewellery .inner-jlg h2{
+    font-size: 35px;
+    font-weight: 400;
+    padding: 0px 0px 40px;
+}
+.About-jewellery .inner-jlg p{
+    font-size: 17px;
+    font-family: "Poppins", sans-serif;
+    color: #0c0c0c;
+    padding: 0px 0px 40px;
+}
+.About-jewellery .inner-jlg .btnn .btn-warning{
+
+}
+
+.About-jewellery .inner-jlg .btn-warning{
+    font-size: 18px;
+    font-weight: bold;
+    background: #000000;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #08c;
+}
+.About-jewellery .inner-jlg .btn-warning:hover{
+    background: #886002;
+    color: #fff;
+    transition: 1s;
+}
+.About-jewellery .inner-pic .sop{
+
+}
+
+.price{
+    width: 100%;
+    padding: 80px 0px;
+    background-color: #f8f8f8;
+}
+.price .inner-price{
+    text-align: center;
+}
+.price .inner-price h2{
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0px 0px 40px;
+}
+
+
+.price  .fst-pc{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.price  .fst-pc h4{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px 0px 100px;
+}
+.price  .fst-pc .pic1{
+    padding: 0px 0px 80px;
+    
+}
+.price  .fst-pc p{
+    color: #0c0c0c;
+    font-size: 30px;
+    font-weight: bold;
+}
+.price  .fst-pc p span{
+    color: #fbb534;
+}
+
+.price  .fst-pc .btn-warning{
+    font-size: 18px;
+    font-weight: bold;
+    background: #000000;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #08c;
+}
+.price  .fst-pc .btn-warning:hover{
+    background: #f6ae04;
+    color: #fff;
+    transition: 1s;
+}
+
+
+.price  .fst-pc1{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.price  .fst-pc1 h4{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px 0px 100px;
+}
+.price  .fst-pc1 .pic2{
+    padding: 0px 0px 68px;
+}
+.price  .fst-pc1 p{
+    color: #0c0c0c;
+    font-size: 30px;
+    font-weight: bold;
+}
+.price  .fst-pc1 p span{
+    color: #fbb534;
+}
+.price  .fst-pc1 .btn-warning{
+    font-size: 18px;
+    font-weight: bold;
+    background: #000000;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #08c;
+}
+.price  .fst-pc1 .btn-warning:hover{
+    background: #f6ae04;
+    color: #fff;
+    transition: 1s;
+}
+
+
+
+.price  .fst-pc2{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.price  .fst-pc2 h4{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px 0px 100px;
+}
+.price  .fst-pc1 .pic2{
+    padding: 0px 0px 68px;
+}
+.price  .fst-pc2 p{
+    color: #0c0c0c;
+    font-size: 30px;
+    padding: 45px 0px 0px;
+    font-weight: bold;
+}
+.price  .fst-pc2 p span{
+    color: #fbb534;
+}
+.price  .fst-pc2 .btn-warning{
+    font-size: 18px;
+    font-weight: bold;
+    background: #000000;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #08c;
+}
+.price  .fst-pc2 .btn-warning:hover{
+    background: #f6ae04;
+    color: #fff;
+    transition: 1s;
+}
+.ring{
+    width: 100%;
+    padding: 80px 0px;
+}
+.ring .trd-ring .rng{
+
+}
+.ring .snd-ring{
+    text-align: center;
+    padding: 80px 0px;
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+}
+.ring .snd-ring h3{
+    font-size: 25px;
+    font-weight: 400;
+    color: #f6ae04;
+}
+.ring .snd-ring h2{
+    font-size: 35px;
+    font-weight: 500;
+    padding: 0px 0px 20px;
+}
+.ring .snd-ring .btnn .btn-warning{
+    font-size: 18px;
+    font-weight: bold;
+    background: #fff;
+    color: #000;
+    text-transform: uppercase;
+    border: 1px solid #08c;
+}
+.ring .snd-ring .btnn .btn-warning:hover{
+    background: #886002;
+    color: aliceblue;
+}
+.footer{
+    width: 100%;
+    padding: 20px 0px;
+    background: #886002;
+}
+.footer .inner-footer{
+    text-align: center;
+    padding: 0px 0px 10px;
+    color: #f8f8f8;
+}
+.footer .lst-footer{
+    text-align: center;
+}
+.footer .lst-footer p a{
+    text-decoration: none;
+    color: #f7a409;
+}
+.footer .lst-footer p a:hover{
+    color: red;
+    transition: 1s;
+}

@@ -1,0 +1,259 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    .sec-header .inner-head p {
+        font-size: 20px;
+        font-weight: 300;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+    }
+    .sec-header .inner-head h1 {
+        font-size: 45px;
+        font-weight: 700;
+        padding: 0px 0px 40px;
+    }
+    .icon .fst-icon1 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .icon .fst-icon2 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .About-jewellery .inner-jlg h2 {
+        font-size: 40px;
+        font-weight: 700;
+        padding: 0px 0px 40px;
+        
+    }
+    .About-jewellery .inner-jlg p {
+        font-size: 20px;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+        padding: 0px 0px 40px;
+    }
+    .price .fst-pc {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .price .fst-pc1 {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .ring .trd-ring .rng {
+        width: 100%;
+    }
+    .ring .snd-ring {
+        text-align: center;
+        padding: 80px 0px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+}
+
+
+
+/* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+@media (min-width: 480px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+    .sec-header .inner-head p {
+        font-size: 16px;
+        font-weight: 300;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+    }
+    .sec-header .inner-head h1 {
+        font-size: 40px;
+        font-weight: 600;
+        padding: 0px 0px 40px;
+    }
+    .icon .fst-icon1 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .icon .fst-icon2 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .About-jewellery .inner-jlg h2 {
+        font-size: 40px;
+        font-weight: 700;
+        padding: 0px 0px 40px;
+        text-align: center;
+    }
+    .About-jewellery .inner-jlg p {
+        font-size: 16px;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+        padding: 0px 0px 40px;
+    }
+    .price .fst-pc {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .price .fst-pc1 {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .ring {
+        width: 100%;
+        padding: 10px 0px;
+    }
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+@media (min-width: 320px) and (max-width: 479px) {
+    
+    /* CSS */
+    .sec-header .inner-head h1 {
+        font-size: 34px;
+        font-weight: 600;
+        padding: 0px 0px 40px;
+    }
+    .sec-header .inner-head p {
+        font-size: 17px;
+        font-weight: 300;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+    }
+    .icon .fst-icon1 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .icon .fst-icon2 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .About-jewellery .inner-jlg h2 {
+        font-size: 28px;
+        font-weight: 700;
+        padding: 0px 0px 40px;
+    }
+    .price .inner-price h2 {
+        font-size: 33px;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding: 0px 0px 40px;
+    }
+    .price .fst-pc {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .price .fst-pc1 {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 0px 0px 15px;
+    }
+    .price {
+        width: 100%;
+        padding: 30px 0px;
+        background-color: #f8f8f8;
+    }
+
+}
+@media (min-width: 279px) and (max-width: 319px){
+    /* CSS */
+    .About-jewellery .inner-jlg h2 {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 0px 0px 40px;
+    }
+    .sec-header .inner-head h1 {
+        font-size: 30px;
+        font-weight: bolder;
+        padding: 0px 0px 40px;
+    }
+
+    .About-jewellery .inner-jlg p {
+        font-size: 16px;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+        padding: 0px 0px 40px;
+    }
+    .price .inner-price h2 {
+        font-size: 26px;
+        font-weight: bold;
+        text-transform: uppercase;
+        padding: 0px 0px 40px;
+    }
+    .About-jewellery .inner-jlg .btn-warning {
+        font-size: 18px;
+        font-weight: bold;
+        background: #000000;
+        color: #fff;
+        text-transform: uppercase;
+        border: 1px solid #08c;
+        text-align: center;
+    }
+    .icon .fst-icon2 {
+        padding: 10px 0px;
+        text-align: center;
+        height: 262px;
+        text-transform: uppercase;
+        box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1);
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .sec-header .inner-head p {
+        font-size: 16px;
+        font-weight: 300;
+        font-family: "Poppins", sans-serif;
+        color: #0c0c0c;
+    }
+    .navbar-brand{
+        width: 50%;
+    }
+    /* .hed{
+        width: 50%;
+    } */
+    .header .container-fluid span {
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+}
